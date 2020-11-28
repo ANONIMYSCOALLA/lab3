@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "5 * * * 4 01.sh" | crontab
+echo "5 * * * 6 01.sh" | crontab
